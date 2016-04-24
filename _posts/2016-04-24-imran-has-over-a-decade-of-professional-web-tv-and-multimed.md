@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Imran has over a decade of professional Web, TV and multimedia experience around the world and also have a thorough understanding of how the digital world works be it for web, tv or mobile. Imran was the internet managing editor for Voice of America VOA News for over 3 years and have also recently launched an on-demand digital video platform that helps connect diverse content creators with a multilingual target audience. He is dedicated, hard working and a creative media professional who seeks to apply knowledge, skills and sound judgement to execute any given task.'
-datePublished: '2016-04-24T02:55:09.085Z'
-dateModified: '2016-04-24T02:54:26.580Z'
+datePublished: '2016-04-24T03:05:02.021Z'
+dateModified: '2016-04-24T03:04:21.026Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-imran-has-over-a-decade-of-professional-web-tv-and-multimed.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: imran-has-over-a-decade-of-professional-web-tv-and-multimed/index.html
 _type: Article
 
