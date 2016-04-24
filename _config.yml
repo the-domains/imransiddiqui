@@ -1,0 +1,28 @@
+name: imransiddiqui
+favicon: null
+layout_spectrum: 0.9236042387783527
+typography_spectrum: 0.5596987640019506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5077595966868103
+  lightness: 0.9128886167891324
+  saturation: 0.5026337672024965
+  rhythmicContrast: 0.5710941795259714
+purpose: []
