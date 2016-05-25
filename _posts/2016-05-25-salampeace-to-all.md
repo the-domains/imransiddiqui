@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Salam/Peace to all.
-datePublished: '2016-05-25T04:45:46.722Z'
-dateModified: '2016-05-25T04:45:30.515Z'
+datePublished: '2016-05-25T05:19:34.969Z'
+dateModified: '2016-05-25T05:19:25.674Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-25-salampeace-to-all.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-salampeace-to-all.md
 url: salampeace-to-all/index.html
 _type: Article
 
@@ -27,7 +27,7 @@ For those who do, find some time to watch, listen and then read for yourself, to
 
 I'm no one's agent, I don't work for anyone else but God. He sustains who He wishes and however He wishes without account. I fear no one except Him. He is my Protector and over Him I Trust.
 
-In 2010 God brought me the opportunity to meet and connect with Asad Sirohey, who translated the Arabic Quran in English that you can find at the link below:
+In 2010 God brought me the opportunity to meet and connect with Asad Sirohey, who translated the Arabic Quran in English without knowing a single word of Arabic which you can find at the link below. You can take the English and translate it back to Arabic of the Quran. No other English translation has been able to do that so far. Exact, word to word Arabic to English without losing any meaning of the actual Word or the Sign. I call them Signs as they are not Verses. The Books of God are not song books, they are the Books of your Lord God, The One, your Creator. They are not for singinging, they are for Reading and Pondering.
 
 [http://www.themajesticreading.com/download-book/][0]
 
@@ -37,19 +37,23 @@ For those who mock this Book, I would say, first read It and avoid the convolute
 
 Through this Book I've discovered that everything that has been taught to us by those who are in power today are only lies about God and this existence. The True Way to Him is not the way this deludid mankind perceives it to be. The Way to God is through the Highway The Constant.
 
-After reading and turning to the One God I dont partner anyone with Him and reject all lies of this world and falsehood attributed to the Quran. I assisted Asad Sirohey in developing the documentary, "Reclaiming The Quran" so the Truth is told, at least to the best of our current abilities. My life changed after that, couldn't work for anyone especially for the government. After trying very hard finally God got me out of my job safe, well and alive.
+After reading and turning to the One God I don't partner anyone with Him and reject all the lies of this world thrown at us and all the falsehood attributed to the Quran. I assisted Asad Sirohey in developing the documentary, "Reclaiming The Quran" so the Truth is told, at least to the best of our current abilities. My life changed after that, couldn't work for anyone especially for the government. After trying very hard finally God helped me get out of my "Deep State" job safe, well and alive.
 
-As the Book confirms that God will not stop sending His Messengers until the final Messenger of God, Jesus, the Messiah, son of Mary returns before The Hour strikes the Earth. When the Sun and the Moon will cease to exist as we know it and the Mankind and the Demonkind will prepare for justice to be served to them. Asad Sirohey is a Messenger of God for the people of today like there were Messengers of God before him. Don't go shaking your head as I nor God needs your permission to call or decide who is a Messenger of God. That only comes from your creator. He decides that and He confirms in the Book about those who've come, those who are here and those that shall come. Holy Spirit Gabriel, narrating the Quran, calls the Quran a Messenger of God as well as Guidance and thus It stands unchanged and unadulterated today.
+The Book confirms that God will not stop sending His Messengers until the final Messenger of God, Jesus, the Messiah, son of Mary returns before The Hour strikes the Earth. When the Sun and the Moon will cease to exist as we know it and the Mankind and the Demonkind will prepare for justice to be served to them. Asad Sirohey is also a Messenger of God for the people of today like there were Messengers of God before him. Don't go shaking your head as I do not need anyone's permission to call or decide who is a Messenger of God. That permission only comes from our Creator and He has already said a lot of stuff about how each people will have their Messengers sent to them so they have no excuse on the day of the standing when the Hour will strike. God decides who is a Messenger or not and He confirms that in the Book about those who've come, those who are here and those that shall come. Holy Spirit Gabriel, narrating the Quran, calls the Quran a Messenger of God as well as the Guidance as It stands unchanged and unadulterated today.
 
-God has been sending His Books and His Messengers over and over again so that there is no one to complain when the final judgment comes after The Hour has struck. But the hasty mankind either Kills the Messenger of God to change the words of God by manipulating His Books. What the heck is King James and Scofield doing playing around with words of God? Just like the Jews keep adding next texts to the Torah, The Christians Keep adding version of The Bible and so called Muslims keep talking about stories outside of The Quran than to talk about the Quran Itself. My teacher and I call them so called Muslims because the word Muslim means a submitter to One God, Muslims of today say they follow One God when in reality they partner Mohammad with God, just like the Christians partner Jesus with God. The Jews could be the actual true Muslims or Submitters of today as they dont partner anyone with God but they separate between the Messenger of God and chose who they think is high above them. When in reality, a true Believer, believes in the Covenant with God and cannot separate between the Messengers of God or pick and choose who they think should come first or later. The Torah, The Psalms and The Bible, have been adulterated and changed by stupid mankind that is why The Christians, The Jews and so called Muslims call their own made up religions Abrahamic Faiths, when Abraham had only one Faith, One God and no partner.
+God has been sending His Books and His Messengers over and over again so that there is no one to complain when the final judgment comes after The Hour has struck. But the hasty mankind either Kill the Messengers of God or change the words of God by manipulating His Books. What the heck is King James and Scofield doing playing around with the words of God in The Bible? Just like the Jews keep adding new texts to The Torah, The Christians Keep adding new versions of The Bible and the so called Muslims keep talking about stories outside of The Quran that they call Hadith ignoring the fact that The Story is of God not anyone else. They talk about everything else other than the Quran Itself. My teacher and I call them so called Muslims because the word Muslim means a submitter to One God, Muslims of today say they follow One God when in reality they partner Mohammad with God, just like the Christians partner Jesus with God. The Jews could be the actual true Muslims or Submitters of today as they don't partner anyone with God but they separate between the Messengers of God and choose who they think is higher ranked above them. When in reality, a true Believer, believes in the Covenant with God and cannot separate between the Messengers of God or pick and choose who they think should come first or later. The Torah, The Psalms and The Bible, have been adulterated and changed by this mankind and that is why The Christians, The Jews and the so called Muslims call their own made up religions Abrahamic Faiths, when in reality Abraham had only one Faith, One God and no partner.
 
-After so many years, no one has been able to answer why basic questions that we ask ourselves after reading and understanding the Quran with the help of this translation, always have contrary answers about everything that mankind has taught us form generations. Why don't the train workers, architects and pilots consider curvature of the earth in mind when they devise their initial strategies, that because the earth has no curvature, its a flat earth but they have forced us to believe the earth is round, defying common sense by inventing things to impose upon us.
+After so many years, no one has been able to answer why basic questions that we ask ourselves after reading and understanding the Quran with the help of this translation, always have contrary answers about everything that mankind has taught us from generations?
 
-The Majestic Reading English translation of The Quran in Arabic is direct, to the point, without any additions added to It. Almost word to word, from Arabic to English and English to Arabic. I say almost, as the only true understanding can come to one, from the Arabic Quran, if wishes God. But this translation surely beats all of the other English translations present on this earth today. The attached Book completely defies all the garbage that they have been deluding us with. I'm moving forward holding on to this Book. It speaks to whoever God wishes.
+The Majestic Reading English translation of The Quran in Arabic is direct, to the point, without any additions added to It. Almost word to word, from Arabic to English and English to Arabic. I say almost, as the true understanding can only come to one, from the Arabic Quran, if wishes God. But this translation surely beats all of the other English translations present on this earth today. The Book completely defies all the garbage that they have been deluding us with. 
 
-I don't know if you are also that one or not. You need to find that yourself.
+I'm moving forward holding on to this Book. It speaks to whoever wishes God.
 
-Be patient, and wait. Ask God for guidance.
+I don't know if you are also the one or not? 
+
+Be patient and wait. Ask God for forgiveness and guidance. Maybe He will guide you.
+
+You need to find the Truth for yourself.
 
 Salam/Peace.
 
