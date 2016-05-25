@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Imran Siddiqui is an entrepreneur with over a decade of professional Web, TV and multimedia experience around the globe demonstrating a thorough understanding of how the digital world works for web, tv and mobile. Imran is the founder of Global Crossover a U.S based media consulting firm and is also the founder of LINGOFLIX a Virginia based on-demand digital TV network that helps connect diverse content creators with a multilingual expat target audience. Imran co-founded Second Chance Studios to provide web, TV and film production opportunities for the next generation. '
-datePublished: '2016-05-25T05:20:20.317Z'
-dateModified: '2016-05-25T05:20:08.178Z'
+datePublished: '2016-05-25T05:29:49.111Z'
+dateModified: '2016-05-25T05:29:17.697Z'
 title: ''
 author:
   - name: ''
@@ -28,6 +28,8 @@ Imran is also the founder and lead vocalist of the D.C. rock band [The House The
 
 Imran has also helped train many students, journalists, reporters, TV and Radio broadcasters and interns globally. From 1990 to 1998 Imran travelled the world and while graduating in Mass Communications Radio TV and Films from PCU Manila Philippines he also had the chance to work with different record labels, fm radio stations and rock bands, one of which was his own rock band in Manila called [Sky High][5]. With many different TV and FM radio network launches to his name, Imran is a highly creative, multitalented and a dedicated media and music professional who applies knowledge, skills and sound judgement to execute any challenge or given task at hand. Imran is also the founder of [Cameras Not Guns][6] where he designed and developed a student training program called [Shoot To Live][6] creating a positive impact with his work around the world by training the youth on how to use media as an effective tool of communication.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2902fda-73ec-4697-9241-11bbef67b90c.jpg)
+
+twitter.com/imransiddiqui facebook.com/rethinkeverything GlobalCrossover.com 
 
 [0]: http://www.globalcrossover.com/
 [1]: http://www.lingoflix.com/
